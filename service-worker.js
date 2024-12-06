@@ -1,4 +1,4 @@
-const CACHE_NAME = "mi-portafolio-cache-v32";
+const CACHE_NAME = "mi-portafolio-cache-v1";
 const urlsToCache = [
     "index.html",
     "styles.css",
