@@ -1,12 +1,14 @@
-const CACHE_NAME = "mi-portafolio-cache-v30";
+const CACHE_NAME = "mi-portafolio-cache-v31";
 const urlsToCache = [
     "index.html",
     "styles.css",
     "script.js",
     "manifest.json",
-    "./img/icono2-192x192.png",
-    "./img/icono-512x513.png",
-    "./img/icono.jpeg",
+    "./img/icono2.png",
+    "./img/icono.png",
+    "./img/dark.jpeg",
+    "./img/foto.jpeg",
+    "./img/hidro.jpeg"
 ];
 
 
