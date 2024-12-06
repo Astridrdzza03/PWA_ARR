@@ -1,6 +1,14 @@
 const CACHE_NAME = "mi-portafolio-cache-v28";
-const urlsToCache = ["index.html", "styles.css", "script.js", "manifest.json", './img/icono2-192x192.png',
-  './img/icono-512x513.png', './img/icono.jpeg'];
+const urlsToCache = [
+    "./index.html",
+    "./styles.css",
+    "./script.js",
+    "./manifest.json",
+    "./img/icono2-192x192.png",
+    "./img/icono-512x513.png",
+    "./img/icono.jpeg",
+];
+
 
 self.addEventListener("install", (event) => {
     event.waitUntil(
